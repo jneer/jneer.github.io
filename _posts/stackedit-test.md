@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Welcome to StackEdit!"
+date:   2014-01-08 13:18:37
+categories: jekyll test
+---
+
 Welcome to StackEdit!	{#welcome}
 =====================
 
